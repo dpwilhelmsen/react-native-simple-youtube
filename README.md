@@ -22,7 +22,7 @@
 #### Android
 
 1. Open up `android/app/src/main/java/[...]/MainActivity.java`
-  - Add `import com.danielwilhelmsen.RNSimpleYoutubePackage;` to the imports at the top of the file
+  - Add `import com.danielwilhelmsen.simpleyoutube.RNSimpleYoutubePackage;` to the imports at the top of the file
   - Add `new RNSimpleYoutubePackage()` to the list returned by the `getPackages()` method
 2. Append the following lines to `android/settings.gradle`:
   	```
