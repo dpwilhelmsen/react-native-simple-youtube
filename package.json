@@ -1,0 +1,35 @@
+{
+  "name": "react-native-simple-youtube",
+  "title": "React Native Simple Youtube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpwilhelmsen/react-native-simple-youtube.git",
+    "baseUrl": "https://github.com/dpwilhelmsen/react-native-simple-youtube"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Daniel",
+    "email": "dev@danielwilhelmsen.com"
+  },
+  "license": "Apache-2.0",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.3.0-alpha.1",
+    "react-native": "0.54.4",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "devDependencies": {
+    "react": "^16.3.0-alpha.1",
+    "react-native": "0.54.4",
+    "react-native-windows": "0.54.0"
+  }
+}
